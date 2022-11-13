@@ -49,7 +49,7 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+94770743364']
 global.ownertag = '+94770743364' //your tag number
-global.botname = 'RED BIRD-BOT' //ur bot name
+global.botname = 'RED DRAGON-BOT' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
